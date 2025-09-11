@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# C++ compiled files
+*.a
+*.so
+*.dylib
+
+# Build directories
+build/
+dist/
